@@ -4,3 +4,4 @@ using GitBranchingPractice;
 Console.WriteLine("Hello, Morgan!");
 
 Airplane airplane = new Airplane();
+Boat boat = new Boat();
